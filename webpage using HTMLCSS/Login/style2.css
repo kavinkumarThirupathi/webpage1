@@ -1,0 +1,38 @@
+.mainbox{
+    width: 40%;
+    border: solid rgb(14, 13, 13);
+    border-radius: 0%;
+    
+    text-align: center;
+    margin: 10%;
+}
+input,button{
+    display: flex;
+    
+   
+}
+.name{
+    margin-top: 10px;
+    border-radius: 2px%;
+    
+}
+.number{
+   margin-top: 10px;
+}
+.email{
+    margin-top: 10px;
+}
+.childbox{
+    margin: 20%;
+    margin-right: 25%;
+}
+button{
+    margin-top: 10%;
+    background-color: #04AA6D; 
+    color: white; 
+    border: none;
+    font-size: 20px; 
+    border-radius: 60px; 
+}
+
+

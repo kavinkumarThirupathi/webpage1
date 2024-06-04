@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navigation{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+}
+h1,ul,li{
+    display: inline;
+}
+ul{
+    padding-left: 70%;
+    color: gray;
+}
+li:hover{
+    color: aliceblue;
+    cursor: pointer;
+
+}
+.search{
+    background-color: lightgray;
+    padding: 40px;
+    text-align: center;
+   
+}
+input{
+    width: 50%;
+    padding: 15px;
+}
+button{
+    width: 3%;
+    padding-right: 15px;
+    padding-left: 2px;
+}
+button:hover{
+    color: blue;
+    cursor: pointer;
+}
+.mobile{border: none;
+border-style:none;
+display:inline-block;
+align-content: space-evenly;
+width: 200px;
+}
+.mobile:hover{
+    cursor: pointer;
+}
+.Prodact{
+    background-color:lightgray;
+}
+.about{
+    background-color: black;
+    color: aliceblue;
+}
+.contact{
+    background-color: aqua;
+}
+
